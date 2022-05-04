@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DEDMOPO3PEAHIMATOP
+- 👋 Hi, I'm Sergey, or @DEDMOPO3PEAHIMATOP
 - 👀 I’m interested in Data Science, Python DevOPS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Scientist
